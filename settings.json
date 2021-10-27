@@ -1,8 +1,8 @@
 {
     "FETCH_INTERVALS": {
-        "ORDERS": 15000,
-        "TRADES": 15000,
-        "WALLETS": 15000,
+        "ORDERS": 30000,
+        "TRADES": 30000,
+        "WALLETS": 30000,
         "TOKENS": 15000,
         "TRANSACTIONS": 15000,
         "PROFILE": 60000,
@@ -12,8 +12,8 @@
     "REQUESTS_TIMEOUT": 20000,
     "MARKETS": [{"name": "google play", "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app", "imageUrl":"https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"}],
     "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
-    "API_URL": "https://api.exnovinmarket.com",
-    "WS_URL": "https://ws.exnovinmarket.com",
+    "API_URL": "https://api.exnovin1.com",
+    "WS_URL": "https://ws.exnovin1.com",
     "BASE_URL": "https://exnovin.io",
     "VERIFY_REGISTER_EMAIL_PATH": "/app/auth/confirmEmail",
     "RESET_PASSWORD_PATH": "/app/resetPassword",
