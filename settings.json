@@ -1,33 +1,49 @@
 {
-    "IS_SERVICE_AVAILABLE": true,
-    "FETCH_INTERVALS": {
-        "ORDERS": 15000,
-        "TRADES": 15000,
-        "WALLETS": 15000,
-        "TOKENS": 15000,
-        "TRANSACTIONS": 15000,
-        "PROFILE": 60000,
-        "NOTIFICATIONS": 60000,
-        "BANK_ACCOUNT": 120000
+  "IS_SERVICE_AVAILABLE": true,
+  "FETCH_INTERVALS": {
+    "ORDERS": 15000,
+    "TRADES": 15000,
+    "WALLETS": 15000,
+    "TOKENS": 15000,
+    "TRANSACTIONS": 15000,
+    "PROFILE": 60000,
+    "NOTIFICATIONS": 60000,
+    "BANK_ACCOUNT": 120000
+  },
+  "REQUESTS_TIMEOUT": 20000,
+  "GLOBAL_CHART_ENABLED": true,
+  "SUPPORT_CHAT_ENABLED": true,
+  "CONVERT_BALANCES_ENABLED": true,
+  "SUPPORT_CHAT_URL": "https://go.crisp.chat/chat/embed/?website_id=6fca6291-2ffa-4970-80d4-ebd829d6a7da",
+  "MARKETS": [
+    {
+      "name": "google play",
+      "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
     },
-    "REQUESTS_TIMEOUT": 20000,
-    "GLOBAL_CHART_ENABLED": true,
-    "SUPPORT_CHAT_ENABLED": true,
-    "CONVERT_BALANCES_ENABLED": true,
-    "SUPPORT_CHAT_URL": "https://go.crisp.chat/chat/embed/?website_id=6fca6291-2ffa-4970-80d4-ebd829d6a7da",
-    "MARKETS": [{"name": "google play", "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app", "imageUrl":"https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"}, {"name": "direct", "appUrl": "https://exnovin.io/exnovin.apk", "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"}],
-    "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
-    "API_URL": "https://api.exnovinmarket.com",
-    "WS_URL": "https://ws.exnovinmarket.com",
-    "ALT_API_URL": "https://api.exnovin1.com",
-    "ALT_WS_URL": "https://ws.exnovin1.com",
-    "BASE_URL": "https://exnovin.io",
-    "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
-    "RESET_PASSWORD_PATH": "/app/reset-password",
-    "REGISTER_PATH": "/app/register",
-    "TERMS_PATH": "/terms",
-    "FEES_PATH": "/fees",
-    "LEVELS_PATH": "/user-levels",
-    "REFERRAL_PATH": "/referral_program",
-    "ETF_PATH": "/etf"
+    {
+      "name": "bazaar",
+      "appUrl": "https://cafebazaar.ir/app/io.exnovin.app",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/BAZAAR.png"
+    },
+    {
+      "name": "direct",
+      "appUrl": "https://exnovin.io/exnovin.apk",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
+    }
+  ],
+  "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
+  "API_URL": "https://api.exnovinmarket.com",
+  "WS_URL": "https://ws.exnovinmarket.com",
+  "ALT_API_URL": "https://api.exnovin1.com",
+  "ALT_WS_URL": "https://ws.exnovin1.com",
+  "BASE_URL": "https://exnovin.io",
+  "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
+  "RESET_PASSWORD_PATH": "/app/reset-password",
+  "REGISTER_PATH": "/app/register",
+  "TERMS_PATH": "/terms",
+  "FEES_PATH": "/fees",
+  "LEVELS_PATH": "/user-levels",
+  "REFERRAL_PATH": "/referral_program",
+  "ETF_PATH": "/etf"
 }
