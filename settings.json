@@ -48,7 +48,7 @@
   "ETF_PATH": "/etf",
   "BANNERS": [
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.png",
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.jpg",
       "deepLink": {
         "stackNumber": 0,
         "screenName": "",
@@ -57,7 +57,7 @@
       "externalLink": "https://exnovin.io"
     },
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.png",
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.jpg",
       "deepLink": {
         "stackNumber": 0,
         "screenName": "",
