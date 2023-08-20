@@ -45,5 +45,117 @@
   "FEES_PATH": "/fees",
   "LEVELS_PATH": "/user-levels",
   "REFERRAL_PATH": "/referral_program",
-  "ETF_PATH": "/etf"
+  "ETF_PATH": "/etf",
+  "BANNERS": [
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.png",
+      "deepLink": {
+        "stackNumber": 0,
+        "screenName": "",
+        "props": {}
+      },
+      "externalLink": "https://exnovin.io"
+    },
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.png",
+      "deepLink": {
+        "stackNumber": 0,
+        "screenName": "",
+        "props": {}
+      },
+      "externalLink": "https://exnovin.io"
+    }
+  ],
+  "USER_JOURNEY": [
+    {
+      "name": "SIGN_UP",
+      "titles": {
+        "fa": "",
+        "en": ""
+      },
+      "descriptions": {
+        "fa": "",
+        "en": ""
+      },
+      "buttonLabels": {
+        "fa": "ثبت نام کن",
+        "en": "Register"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "stackNumber": 0,
+        "screenName": "LOGIN_SCREEN",
+        "props": {}
+      },
+      "externalLink": ""
+    },
+    {
+      "name": "KYC",
+      "titles": {
+        "fa": "",
+        "en": ""
+      },
+      "descriptions": {
+        "fa": "",
+        "en": ""
+      },
+      "buttonLabels": {
+        "fa": "شروع کن",
+        "en": "Start"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "stackNumber": 0,
+        "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
+        "props": {}
+      },
+      "externalLink": ""
+    },
+    {
+      "name": "FIAT_DEPOSIT",
+      "titles": {
+        "fa": "",
+        "en": ""
+      },
+      "descriptions": {
+        "fa": "",
+        "en": ""
+      },
+      "buttonLabels": {
+        "fa": "واریز تومان",
+        "en": "Deposit Toman"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "stackNumber": 0,
+        "screenName": "DEPOSIT_SCREEN",
+        "props": {
+          "symbol": "TMN"
+        }
+      },
+      "externalLink": ""
+    },
+    {
+      "name": "TRADE",
+      "titles": {
+        "fa": "",
+        "en": ""
+      },
+      "descriptions": {
+        "fa": "",
+        "en": ""
+      },
+      "buttonLabels": {
+        "fa": "معامله کن",
+        "en": "Place Order"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "stackNumber": 2,
+        "screenName": "",
+        "props": {}
+      },
+      "externalLink": ""
+    }
+  ]
 }
