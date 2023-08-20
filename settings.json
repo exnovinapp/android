@@ -50,7 +50,7 @@
     {
       "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.jpg",
       "deepLink": {
-        "stackNumber": 0,
+        "tabIndex": 0,
         "screenName": "",
         "props": {}
       },
@@ -59,7 +59,7 @@
     {
       "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.jpg",
       "deepLink": {
-        "stackNumber": 0,
+        "tabIndex": 0,
         "screenName": "",
         "props": {}
       },
@@ -83,7 +83,7 @@
       },
       "logoUrl": "",
       "deepLink": {
-        "stackNumber": 0,
+        "tabIndex": 0,
         "screenName": "LOGIN_SCREEN",
         "props": {}
       },
@@ -105,7 +105,7 @@
       },
       "logoUrl": "",
       "deepLink": {
-        "stackNumber": 0,
+        "tabIndex": 0,
         "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
         "props": {}
       },
@@ -127,7 +127,7 @@
       },
       "logoUrl": "",
       "deepLink": {
-        "stackNumber": 0,
+        "tabIndex": 0,
         "screenName": "DEPOSIT_SCREEN",
         "props": {
           "symbol": "TMN"
@@ -151,7 +151,7 @@
       },
       "logoUrl": "",
       "deepLink": {
-        "stackNumber": 2,
+        "tabIndex": 2,
         "screenName": "",
         "props": {}
       },
