@@ -67,95 +67,111 @@
     }
   ],
   "USER_JOURNEY": [
-    {
-      "name": "SIGN_UP",
-      "titles": {
-        "fa": "",
-        "en": ""
-      },
-      "descriptions": {
-        "fa": "",
-        "en": ""
-      },
-      "buttonLabels": {
-        "fa": "ثبت نام کن",
-        "en": "Register"
-      },
-      "logoUrl": "",
-      "deepLink": {
-        "tabIndex": 0,
-        "screenName": "LOGIN_SCREEN",
-        "props": {}
-      },
-      "externalLink": ""
-    },
-    {
-      "name": "KYC",
-      "titles": {
-        "fa": "",
-        "en": ""
-      },
-      "descriptions": {
-        "fa": "",
-        "en": ""
-      },
-      "buttonLabels": {
-        "fa": "شروع کن",
-        "en": "Start"
-      },
-      "logoUrl": "",
-      "deepLink": {
-        "tabIndex": 0,
-        "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
-        "props": {}
-      },
-      "externalLink": ""
-    },
-    {
-      "name": "FIAT_DEPOSIT",
-      "titles": {
-        "fa": "",
-        "en": ""
-      },
-      "descriptions": {
-        "fa": "",
-        "en": ""
-      },
-      "buttonLabels": {
-        "fa": "واریز تومان",
-        "en": "Deposit Toman"
-      },
-      "logoUrl": "",
-      "deepLink": {
-        "tabIndex": 0,
-        "screenName": "DEPOSIT_SCREEN",
-        "props": {
-          "symbol": "TMN"
+        {
+            "name": "SIGN_UP",
+            "titles": {
+                "fa": "",
+                "en": ""
+            },
+            "descriptions": {
+                "fa": "",
+                "en": ""
+            },
+            "buttonLabels": {
+                "fa": "ثبت نام کن",
+                "en": "Register"
+            },
+            "stepLabels": {
+                "fa": "ثبت نام",
+                "en": "Register"
+            },
+            "logoUrl": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "LOGIN_SCREEN",
+               "props": {}
+            },
+            "externalLink": ""
+        },
+        {
+            "name": "KYC",
+            "titles": {
+                "fa": "",
+                "en": ""
+            },
+            "descriptions": {
+                "fa": "",
+                "en": ""
+            },
+            "buttonLabels": {
+                "fa": "شروع کن",
+                "en": "Start"
+            },
+            "stepLabels": {
+                "fa": "احراز هویت",
+                "en": "Kyc"
+            },
+            "logoUrl": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
+               "props": {}
+            },
+            "externalLink": ""
+        },
+        {
+            "name": "FIAT_DEPOSIT",
+            "titles": {
+                "fa": "",
+                "en": ""
+            },
+            "descriptions": {
+                "fa": "",
+                "en": ""
+            },
+            "buttonLabels": {
+                "fa": "واریز تومان",
+                "en": "Deposit Toman"
+            },
+            "stepLabels": {
+                "fa": "واریز",
+                "en": "Deposit"
+            },
+            "logoUrl": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "DEPOSIT_SCREEN",
+               "props": {
+                   "symbol": "TMN"
+               }
+            },
+            "externalLink": ""
+        },
+        {
+            "name": "TRADE",
+            "titles": {
+                "fa": "",
+                "en": ""
+            },
+            "descriptions": {
+                "fa": "",
+                "en": ""
+            },
+            "buttonLabels": {
+                "fa": "معامله کن",
+                "en": "Trade"
+            },
+            "stepLabels": {
+                "fa": "معامله",
+                "en": "Trade"
+            },
+            "logoUrl": "",
+            "deepLink": {
+               "tabIndex": 2,
+               "screenName": "",
+               "props": {}
+            },
+            "externalLink": ""
         }
-      },
-      "externalLink": ""
-    },
-    {
-      "name": "TRADE",
-      "titles": {
-        "fa": "",
-        "en": ""
-      },
-      "descriptions": {
-        "fa": "",
-        "en": ""
-      },
-      "buttonLabels": {
-        "fa": "معامله کن",
-        "en": "Place Order"
-      },
-      "logoUrl": "",
-      "deepLink": {
-        "tabIndex": 2,
-        "screenName": "",
-        "props": {}
-      },
-      "externalLink": ""
-    }
-  ]
+    ]
 }
