@@ -178,7 +178,7 @@
         }
   ],
   "NEW_VERSION_MODAL": {
-        "active": true,
+        "active": false,
         "version": "2.10.0",
         "imageUrl": "",
         "externalLink": "https://exnovin.io"
