@@ -69,9 +69,6 @@
   "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
-            "limits": {
-                "hadJWT": true
-            },
             "titles": {
                 "fa": "",
                 "en": ""
@@ -98,9 +95,6 @@
         },
         {
             "name": "KYC",
-            "limits": {
-                "minKycLevel": 2
-            },
             "titles": {
                 "fa": "",
                 "en": ""
@@ -158,9 +152,6 @@
         },
         {
             "name": "TRADE",
-            "limits": {
-                "minTradesCount": 1
-            },
             "titles": {
                 "fa": "",
                 "en": ""
