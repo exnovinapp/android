@@ -176,5 +176,11 @@
             },
             "externalLink": ""
         }
-    ]
+  ],
+  "NEW_VERSION_MODAL": {
+        "active": true,
+        "version": "2.10.0",
+        "imageUrl": "",
+        "externalLink": "https://exnovin.io"
+  }
 }
