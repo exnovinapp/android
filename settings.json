@@ -66,27 +66,7 @@
       "externalLink": "https://exnovin.io"
     }
   ],
-    "BANNERS": [
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.png",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "https://exnovin.io"
-        },
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.png",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "https://exnovin.io"
-        }
-    ],
-    "USER_JOURNEY": [
+  "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
             "titles": {
@@ -196,7 +176,7 @@
             },
             "externalLink": ""
         }
-    ],
+  ],
   "NEW_VERSION_MODAL": {
         "active": false,
         "version": "2.10.0",
