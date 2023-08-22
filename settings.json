@@ -66,16 +66,16 @@
       "externalLink": "https://exnovin.io"
     }
   ],
-  "USER_JOURNEY": [
+    "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
             "titles": {
-                "fa": "",
-                "en": ""
+                "fa": "ثبت نام",
+                "en": "Register"
             },
             "descriptions": {
-                "fa": "",
-                "en": ""
+                "fa": "برای مشاهده همه خدمات ابتدا ثبت نام کنید.",
+                "en": "To access all features, signup first."
             },
             "buttonLabels": {
                 "fa": "ثبت نام کن",
@@ -96,12 +96,12 @@
         {
             "name": "KYC",
             "titles": {
-                "fa": "",
-                "en": ""
+                "fa": "احراز هویت",
+                "en": "KYC"
             },
             "descriptions": {
-                "fa": "",
-                "en": ""
+                "fa": "احراز هویت کنید و به صورت نامحدود خرید و فروش انجام دهید.",
+                "en": "Compelete Kyc to have unlimited trade."
             },
             "buttonLabels": {
                 "fa": "شروع کن",
@@ -109,7 +109,7 @@
             },
             "stepLabels": {
                 "fa": "احراز هویت",
-                "en": "Kyc"
+                "en": "KYC"
             },
             "logoUrl": "",
             "deepLink": {
@@ -125,20 +125,20 @@
                 "minFundsValue": 1000000
             },
             "titles": {
-                "fa": "",
-                "en": ""
+                "fa": "شروع سرمایه گذاری",
+                "en": "Investing"
             },
             "descriptions": {
-                "fa": "",
-                "en": ""
+                "fa": "با واریز وجه شروع به سرمایه گذاری و کسب سود کنید.",
+                "en": "Deposit Funds to Invest and gain profit."
             },
             "buttonLabels": {
                 "fa": "واریز تومان",
                 "en": "Deposit Toman"
             },
             "stepLabels": {
-                "fa": "واریز",
-                "en": "Deposit"
+                "fa": "شروع سرمایه گذاری",
+                "en": "Investing"
             },
             "logoUrl": "",
             "deepLink": {
@@ -153,16 +153,16 @@
         {
             "name": "TRADE",
             "titles": {
-                "fa": "",
-                "en": ""
+                "fa": "معامله",
+                "en": "Trade"
             },
             "descriptions": {
-                "fa": "",
-                "en": ""
+                "fa": "فرصت های سرمایه گذاری در انتظار شما هستند. شروع کنید.",
+                "en": "Trade opportunities are waiting for you. go ahead!!"
             },
             "buttonLabels": {
-                "fa": "معامله کن",
-                "en": "Trade"
+                "fa": "بررسی بازارها",
+                "en": "Market Research"
             },
             "stepLabels": {
                 "fa": "معامله",
@@ -176,7 +176,7 @@
             },
             "externalLink": ""
         }
-  ],
+    ],
   "NEW_VERSION_MODAL": {
         "active": false,
         "version": "2.10.0",
