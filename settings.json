@@ -66,6 +66,26 @@
       "externalLink": "https://exnovin.io"
     }
   ],
+    "BANNERS": [
+        {
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-01.png",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "",
+               "props": {}
+            },
+            "externalLink": "https://exnovin.io"
+        },
+        {
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-02.png",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "",
+               "props": {}
+            },
+            "externalLink": "https://exnovin.io"
+        }
+    ],
     "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
@@ -78,8 +98,8 @@
                 "en": "To access all features, signup first."
             },
             "buttonLabels": {
-                "fa": "ثبت نام کن",
-                "en": "Register"
+                "fa": "شروع",
+                "en": "Start"
             },
             "stepLabels": {
                 "fa": "ثبت نام",
@@ -170,7 +190,7 @@
             },
             "logoUrl": "",
             "deepLink": {
-               "tabIndex": 2,
+               "tabIndex": 1,
                "screenName": "",
                "props": {}
             },
