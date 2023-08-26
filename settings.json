@@ -22,14 +22,9 @@
       "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
     },
     {
-      "name": "bazaar",
-      "appUrl": "https://cafebazaar.ir/app/io.exnovin.app",
-      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/BAZAAR.png"
-    },
-    {
-      "name": "direct",
-      "appUrl": "https://exnovin.io/exnovin.apk",
-      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
+       "name": "direct",
+       "appUrl": "https://exnovin.io/exnovin.apk",
+       "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
     }
   ],
   "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
