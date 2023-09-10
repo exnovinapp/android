@@ -158,5 +158,9 @@
         "version": "3.0.0",
         "imageUrl": "",
         "externalLink": "https://exnovin.io"
+  },
+  "VIP_LEVEL_REQUIRMENTS": {
+        "min30dVol": 3000000000,
+        "min30dDeposit": 1000000000
   }
 }
