@@ -161,6 +161,6 @@
   },
   "VIP_LEVEL_REQUIRMENTS": {
         "min30dVol": 3000000000,
-        "min30dDeposit": 1000000000
+        "min30dFiatDeposit": 1000000000
   }
 }
