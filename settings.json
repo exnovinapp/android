@@ -159,7 +159,7 @@
         "imageUrl": "",
         "externalLink": "https://exnovin.io"
   },
-  "VIP_LEVEL_REQUIRMENTS": {
+  "VIP_LEVEL_REQUIREMENTS": {
         "min30dVol": 3000000000,
         "min30dFiatDeposit": 1000000000
   }
