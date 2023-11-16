@@ -22,6 +22,11 @@
             "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
         },
         {
+            "name": "bazaar",
+            "appUrl": "https://cafebazaar.ir/app/io.exnovin.app",
+            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/BAZAAR.png"
+        },
+        {
             "name": "direct",
             "appUrl": "https://exnovin.io/exnovin.apk",
             "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
@@ -154,9 +159,9 @@
         }
     ],
     "NEW_VERSION_MODAL": {
-        "active": false,
+        "active": true,
         "version": "2.10.3",
-        "imageUrl": "",
+        "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-update-banner.png",
         "externalLink": "https://play.google.com/store/apps/details?id=io.exnovin.app"
     }
 }
