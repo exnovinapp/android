@@ -1,48 +1,48 @@
 {
-  "IS_SERVICE_AVAILABLE": true,
-  "FETCH_INTERVALS": {
-    "ORDERS": 15000,
-    "TRADES": 15000,
-    "WALLETS": 15000,
-    "TOKENS": 15000,
-    "TRANSACTIONS": 15000,
-    "PROFILE": 60000,
-    "NOTIFICATIONS": 60000,
-    "BANK_ACCOUNT": 120000
-  },
-  "REQUESTS_TIMEOUT": 20000,
-  "GLOBAL_CHART_ENABLED": true,
-  "SUPPORT_CHAT_ENABLED": true,
-  "CONVERT_BALANCES_ENABLED": true,
-  "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
-  "MARKETS": [
-    {
-      "name": "google play",
-      "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app",
-      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
+    "IS_SERVICE_AVAILABLE": true,
+    "FETCH_INTERVALS": {
+        "ORDERS": 15000,
+        "TRADES": 15000,
+        "WALLETS": 15000,
+        "TOKENS": 15000,
+        "TRANSACTIONS": 15000,
+        "PROFILE": 60000,
+        "NOTIFICATIONS": 60000,
+        "BANK_ACCOUNT": 120000
     },
-    {
-       "name": "direct",
-       "appUrl": "https://exnovin.io/exnovin.apk",
-       "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
-    }
-  ],
-  "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
-  "API_URL": "https://api.exnovinmarket.com",
-  "WS_URL": "https://ws.exnovinmarket.com",
-  "ALT_API_URL": "https://api.exnovin.io",
-  "ALT_WS_URL": "https://ws.exnovin.io",
-  "BASE_URL": "https://exnovin.io",
-  "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
-  "RESET_PASSWORD_PATH": "/app/reset-password",
-  "REGISTER_PATH": "/app/register",
-  "TERMS_PATH": "/terms",
-  "FEES_PATH": "/fees",
-  "LEVELS_PATH": "/user-levels",
-  "REFERRAL_PATH": "/referral_program",
-  "ETF_PATH": "/etf",
-  "BANNERS": [],
-  "USER_JOURNEY": [
+    "REQUESTS_TIMEOUT": 20000,
+    "GLOBAL_CHART_ENABLED": true,
+    "SUPPORT_CHAT_ENABLED": true,
+    "CONVERT_BALANCES_ENABLED": true,
+    "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
+    "MARKETS": [
+        {
+            "name": "google play",
+            "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app",
+            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
+        },
+        {
+            "name": "direct",
+            "appUrl": "https://exnovin.io/exnovin.apk",
+            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
+        }
+    ],
+    "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
+    "API_URL": "https://api.exnovinmarket.com",
+    "WS_URL": "https://ws.exnovinmarket.com",
+    "ALT_API_URL": "https://api.exnovin.io",
+    "ALT_WS_URL": "https://ws.exnovin.io",
+    "BASE_URL": "https://exnovin.io",
+    "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
+    "RESET_PASSWORD_PATH": "/app/reset-password",
+    "REGISTER_PATH": "/app/register",
+    "TERMS_PATH": "/terms",
+    "FEES_PATH": "/fees",
+    "LEVELS_PATH": "/user-levels",
+    "REFERRAL_PATH": "/referral_program",
+    "ETF_PATH": "/etf",
+    "BANNERS": [],
+    "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
             "titles": {
@@ -152,15 +152,11 @@
             },
             "externalLink": ""
         }
-  ],
-  "NEW_VERSION_MODAL": {
+    ],
+    "NEW_VERSION_MODAL": {
         "active": false,
-        "version": "3.0.0",
+        "version": "2.10.3",
         "imageUrl": "",
-        "externalLink": "https://exnovin.io"
-  },
-  "VIP_LEVEL_REQUIREMENTS": {
-        "min30dVol": 3000000000,
-        "min30dFiatDeposit": 1000000000
-  }
+        "externalLink": "https://play.google.com/store/apps/details?id=io.exnovin.app"
+    }
 }
