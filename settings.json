@@ -159,8 +159,8 @@
         }
     ],
     "NEW_VERSION_MODAL": {
-        "active": true,
-        "version": "2.10.3",
+        "active": false,
+        "version": "2.10.4",
         "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-update-banner.png",
         "externalLink": "https://play.google.com/store/apps/details?id=io.exnovin.app"
     }
