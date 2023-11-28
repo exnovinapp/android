@@ -46,7 +46,18 @@
     "LEVELS_PATH": "/user-levels",
     "REFERRAL_PATH": "/referral_program",
     "ETF_PATH": "/etf",
-    "BANNERS": [],
+    "BANNERS": [
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-banner-02.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        },
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-banner-01.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        }
+    ],
     "USER_JOURNEY": [
         {
             "name": "SIGN_UP",
