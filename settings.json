@@ -44,7 +44,7 @@
     "TERMS_PATH": "/terms",
     "FEES_PATH": "/fees",
     "LEVELS_PATH": "/user-levels",
-    "REFERRAL_PATH": "/referral_program",
+    "REFERRAL_PATH": "/referral",
     "ETF_PATH": "/etf",
     "BANNERS": [
         {
