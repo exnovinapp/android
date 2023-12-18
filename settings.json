@@ -1,14 +1,14 @@
 {
     "IS_SERVICE_AVAILABLE": true,
     "FETCH_INTERVALS": {
-        "ORDERS": 150000,
-        "TRADES": 150000,
-        "WALLETS": 150000,
-        "TOKENS": 150000,
-        "TRANSACTIONS": 150000,
-        "PROFILE": 600000,
-        "NOTIFICATIONS": 600000,
-        "BANK_ACCOUNT": 1200000
+        "ORDERS": 15000,
+        "TRADES": 15000,
+        "WALLETS": 15000,
+        "TOKENS": 15000,
+        "TRANSACTIONS": 15000,
+        "PROFILE": 60000,
+        "NOTIFICATIONS": 60000,
+        "BANK_ACCOUNT": 120000
     },
     "REQUESTS_TIMEOUT": 200000,
     "GLOBAL_CHART_ENABLED": true,
