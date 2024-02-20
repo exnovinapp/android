@@ -117,8 +117,8 @@
                 "minFundsValue": 1000000
             },
             "titles": {
-                "fa": "شروع سرمایه گذاری",
-                "en": "Investing"
+                "fa": "واریز",
+                "en": "Deposit"
             },
             "descriptions": {
                 "fa": "با واریز وجه شروع به سرمایه گذاری و کسب سود کنید.",
@@ -129,8 +129,8 @@
                 "en": "Deposit Toman"
             },
             "stepLabels": {
-                "fa": "شروع سرمایه گذاری",
-                "en": "Investing"
+                "fa": "واریز",
+                "en": "Deposit"
             },
             "logoUrl": "",
             "deepLink": {
