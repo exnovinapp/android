@@ -169,6 +169,110 @@
             "externalLink": ""
         }
     ],
+    "HOME_SHORTCUT_MENU": [
+        {
+            "labels": {
+                "fa": "واریز",
+                "en": "Deposit"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "DEPOSIT_SCREEN",
+               "props": {
+                   "symbol": "TMN"
+               }
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "سود و زیان",
+                "en": "PnL"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "PNL_SCREEN",
+               "props": {}
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "خرید سریع",
+                "en": "Fast Buy"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "FAST_ORDER_SCREEN",
+               "props": {
+                "side": "BUY"
+               }
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "تبدیل دارایی",
+                "en": "Convert Assets"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "FAST_CONVERT_SCREEN",
+               "props": {}
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "حساب بانکی",
+                "en": "Bank Account"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "BANK_ACCOUNTS_SCREEN",
+               "props": {}
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "هدیه",
+                "en": "Gift"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "GIFTS_SCREEN",
+               "props": {}
+            },
+            "externalLink": "",
+            "badge": ""
+        },
+        {
+            "labels": {
+                "fa": "دعوت دوستان",
+                "en": "Invite Friends"
+            },
+            "icon": "",
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "REFERRAL_SCREEN",
+               "props": {}
+            },
+            "externalLink": "",
+            "badge": ""
+        }
+    ],
     "NEW_VERSION_MODAL": {
         "active": true,
         "version": "2.10.6",
