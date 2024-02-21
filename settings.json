@@ -175,7 +175,7 @@
                 "fa": "واریز",
                 "en": "Deposit"
             },
-            "icon": "",
+            "icon": "walletIncome",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "DEPOSIT_SCREEN",
@@ -191,7 +191,7 @@
                 "fa": "سود و زیان",
                 "en": "PnL"
             },
-            "icon": "",
+            "icon": "trendUpGraphBox",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "PNL_SCREEN",
@@ -205,7 +205,7 @@
                 "fa": "خرید سریع",
                 "en": "Fast Buy"
             },
-            "icon": "",
+            "icon": "shoppingBagPlus",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "FAST_ORDER_SCREEN",
@@ -221,7 +221,7 @@
                 "fa": "تبدیل دارایی",
                 "en": "Convert Assets"
             },
-            "icon": "",
+            "icon": "deliveryBoxChange",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "FAST_CONVERT_SCREEN",
@@ -235,7 +235,7 @@
                 "fa": "حساب بانکی",
                 "en": "Bank Account"
             },
-            "icon": "",
+            "icon": "bankCardDouble",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "BANK_ACCOUNTS_SCREEN",
@@ -249,7 +249,7 @@
                 "fa": "هدیه",
                 "en": "Gift"
             },
-            "icon": "",
+            "icon": "gift",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "GIFTS_SCREEN",
@@ -263,7 +263,7 @@
                 "fa": "دعوت دوستان",
                 "en": "Invite Friends"
             },
-            "icon": "",
+            "icon": "user",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "REFERRAL_SCREEN",
