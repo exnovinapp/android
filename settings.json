@@ -273,6 +273,12 @@
             "badge": ""
         }
     ],
+    "TOP_MARKETS": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "XRP/USDT",
+        "BNB/USDT"
+    ],
     "NEW_VERSION_MODAL": {
         "active": true,
         "version": "2.10.6",
