@@ -10,7 +10,7 @@
         "NOTIFICATIONS": 60000,
         "BANK_ACCOUNT": 120000
     },
-    "REQUESTS_TIMEOUT": 200000,
+    "REQUESTS_TIMEOUT": 20000,
     "GLOBAL_CHART_ENABLED": true,
     "SUPPORT_CHAT_ENABLED": true,
     "CONVERT_BALANCES_ENABLED": true,
@@ -228,7 +228,7 @@
                "props": {}
             },
             "externalLink": "",
-            "badge": ""
+            "badge": "جدید"
         },
         {
             "labels": {
@@ -270,14 +270,40 @@
                "props": {}
             },
             "externalLink": "",
-            "badge": ""
+            "badge": "50%"
         }
     ],
     "TOP_MARKETS": [
         "BTC/USDT",
         "ETH/USDT",
         "XRP/USDT",
-        "BNB/USDT"
+        "BNB/USDT",
+        "LTC/USDT",
+        "BCH/USDT",
+        "ADA/USDT",
+        "LINK/USDT"
+    ],
+    "HOME_BANNERS": [
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-03.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        },
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-03.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        },
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-03.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        },
+        {
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-banner-02.png",
+            "deepLink": {},
+            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+        }
     ],
     "NEW_VERSION_MODAL": {
         "active": true,
