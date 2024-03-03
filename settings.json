@@ -305,6 +305,14 @@
             "externalLink": "https://exnovin.io/campaign/4th-anniversary"
         }
     ],
+    "SUGGESTION_FAVS": [
+        "BTC/TMN",
+        "USDT/TMN",
+        "ETH/TMN",
+        "SOL/TMN",
+        "XRP/TMN",
+        "SHIB/TMN"
+    ],
     "NEW_VERSION_MODAL": {
         "active": true,
         "version": "2.10.6",
