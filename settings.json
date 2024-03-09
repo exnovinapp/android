@@ -313,5 +313,9 @@
         "version": "2.10.6",
         "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-update-banner-04.png",
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
+    },
+    "VIP_LEVEL_REQUIREMENTS": {
+        "min30dFiatDeposit": 1000000000,
+        "min30dVol": 3000000000
     }
 }
