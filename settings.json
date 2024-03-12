@@ -48,9 +48,9 @@
     "ETF_PATH": "/etf",
     "BANNERS": [
         {
-            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-banner-02.png",
+            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-04.png",
             "deepLink": {},
-            "externalLink": "https://exnovin.io/campaign/4th-anniversary"
+            "externalLink": "https://exnovin.io"
         }
     ],
     "USER_JOURNEY": [
