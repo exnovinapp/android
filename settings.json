@@ -222,7 +222,7 @@
             },
             "icon": "deliveryBoxChange",
             "deepLink": {
-               "tabIndex": 0,
+               "tabIndex": null,
                "screenName": "",
                "props": {}
             },
