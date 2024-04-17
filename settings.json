@@ -45,7 +45,15 @@
     "FEES_PATH": "/fees",
     "LEVELS_PATH": "/user-levels",
     "REFERRAL_PATH": "/referral",
+    "FAQ_PATH": "/faq",
+    "ANNOUNCEMENT_PATH": "/announcement",
+    "CONTACTUS_PATH": "/contact-us",
     "ETF_PATH": "/etf",
+    "SOCIALS_NETWORKS": {
+        "X" : "https://x.com/Oppodax_ir",
+        "TELEGRAM": "https://t.me/oppodax",
+        "INSTAGRAM": "https://www.instagram.com/oppodax.ir"
+    },
     "BANNERS": [
         {
             "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-04.png",
