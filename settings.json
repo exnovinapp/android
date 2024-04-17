@@ -166,6 +166,7 @@
     ],
     "HOME_SHORTCUT_MENU": [
         {
+            "id": "DEPOSIT",
             "labels": {
                 "fa": "واریز",
                 "en": "Deposit"
@@ -182,6 +183,7 @@
             "badge": ""
         },
         {
+            "id": "PNL",
             "labels": {
                 "fa": "سود و زیان",
                 "en": "PnL"
@@ -196,6 +198,7 @@
             "badge": ""
         },
         {
+            "id": "FAST_ORDER",
             "labels": {
                 "fa": "خرید سریع",
                 "en": "Fast Buy"
@@ -212,6 +215,7 @@
             "badge": ""
         },
         {
+            "id": "FAST_CONVERT",
             "labels": {
                 "fa": "تبدیل دارایی",
                 "en": "Convert Assets"
@@ -219,13 +223,14 @@
             "icon": "deliveryBoxChange",
             "deepLink": {
                "tabIndex": 0,
-               "screenName": "FAST_CONVERT_SCREEN",
+               "screenName": "",
                "props": {}
             },
             "externalLink": "",
             "badge": "جدید"
         },
         {
+            "id": "BANK_ACCOUNTS",
             "labels": {
                 "fa": "حساب بانکی",
                 "en": "Bank Account"
@@ -240,6 +245,7 @@
             "badge": ""
         },
         {
+            "id": "GIFTS",
             "labels": {
                 "fa": "هدیه",
                 "en": "Gift"
@@ -254,6 +260,7 @@
             "badge": ""
         },
         {
+            "id": "REFERRAL",
             "labels": {
                 "fa": "دعوت دوستان",
                 "en": "Invite Friends"
