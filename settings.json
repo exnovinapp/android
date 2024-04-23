@@ -325,8 +325,8 @@
     ],
     "NEW_VERSION_MODAL": {
         "active": true,
-        "version": "2.10.6",
-        "imageUrl": "https://api.exnovin.io/static-contents/images/banners/mobile-update-banner-04.png",
+        "version": "2.10.7",
+        "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/mobile-update-banner-05.png",
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
     },
     "VIP_LEVEL_REQUIREMENTS": {
