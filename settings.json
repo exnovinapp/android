@@ -41,6 +41,7 @@
     "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
     "RESET_PASSWORD_PATH": "/app/reset-password",
     "REGISTER_PATH": "/app/register",
+    "TOKEN_PATH": "/markets",
     "TERMS_PATH": "/terms",
     "FEES_PATH": "/fees",
     "LEVELS_PATH": "/user-levels",
