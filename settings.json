@@ -11,7 +11,7 @@
         "BANK_ACCOUNT": 120000
     },
     "REQUESTS_TIMEOUT": 20000,
-    "GLOBAL_CHART_ENABLED": true,
+    "GLOBAL_CHART_ENABLED": false,
     "SUPPORT_CHAT_ENABLED": true,
     "CONVERT_BALANCES_ENABLED": true,
     "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
