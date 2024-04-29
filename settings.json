@@ -325,7 +325,7 @@
         "SHIB/TMN"
     ],
     "NEW_VERSION_MODAL": {
-        "active": true,
+        "active": false,
         "version": "2.10.7",
         "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/mobile-update-banner-05.png",
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
