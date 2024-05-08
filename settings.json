@@ -330,6 +330,15 @@
         "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/mobile-update-banner-06.png",
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
     },
+    "APP_UPDATE_MODAL": {
+        "active": true,
+        "version": "2.10.8",
+        "externalLink": "https://cafebazaar.ir/app/io.exnovin.app",
+        "changes": {
+            "en": ["change1", "change2"],
+            "fa": ["تغییرات 1", "تغییرات 2"]
+        }
+    },
     "VIP_LEVEL_REQUIREMENTS": {
         "min30dFiatDeposit": 1000000000,
         "min30dVol": 3000000000
