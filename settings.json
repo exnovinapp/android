@@ -209,8 +209,8 @@
         {
             "id": "FAST_ORDER",
             "labels": {
-                "fa": "خرید سریع",
-                "en": "Fast Buy"
+                "fa": "سفارش سریع",
+                "en": "Fast Order"
             },
             "icon": "shoppingBagPlus",
             "deepLink": {
