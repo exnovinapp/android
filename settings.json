@@ -339,6 +339,10 @@
             "fa": ["تغییرات 1", "تغییرات 2"]
         }
     },
+    "SERVICE_UPGRADE": {
+        "active": true,
+        "estimatedUpTime": "2024-05-08T12:35:34Z"
+    },
     "VIP_LEVEL_REQUIREMENTS": {
         "min30dFiatDeposit": 1000000000,
         "min30dVol": 3000000000
