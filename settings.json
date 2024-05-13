@@ -53,7 +53,9 @@
     "SOCIALS_NETWORKS": {
         "X" : "https://x.com/Oppodax_ir",
         "TELEGRAM": "https://t.me/oppodax",
-        "INSTAGRAM": "https://www.instagram.com/oppodax.ir"
+        "INSTAGRAM": "https://www.instagram.com/oppodax.ir",
+        "FACEBOOK": "",
+        "LINKEDIN": ""
     },
     "BANNERS": [
         {
