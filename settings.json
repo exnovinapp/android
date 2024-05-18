@@ -346,6 +346,7 @@
         "estimatedUpTime": "2024-05-08T12:35:34Z"
     },
     "VIP_LEVEL_REQUIREMENTS": {
+        "activityDurationBasedOnMonth": 1,
         "min30dFiatDeposit": 1000000000,
         "min30dVol": 3000000000
     }
