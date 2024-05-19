@@ -15,6 +15,8 @@
     "SUPPORT_CHAT_ENABLED": true,
     "CONVERT_BALANCES_ENABLED": true,
     "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
+    "TRACKING_ENDPOINT": "https://trace.exnovinmarket.com/v1/event",
+    "COOKIE_DOMAIN": ".irandax.com",
     "MARKETS": [
         {
             "name": "google play",
