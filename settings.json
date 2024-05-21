@@ -185,6 +185,7 @@
                 "en": "Gift"
             },
             "icon": "gift",
+            "iconLink": "",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "GIFT_SCREEN",
@@ -200,6 +201,7 @@
                 "en": "4th-anniversary"
             },
             "icon": "discountBag",
+            "iconLink": "",
             "deepLink": {
                "tabIndex": 0,
                "screenName": "",
