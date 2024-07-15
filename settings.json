@@ -369,7 +369,7 @@
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
     },
     "APP_UPDATE_MODAL": {
-        "active": true,
+        "active": false,
         "version": "2.10.8",
         "externalLink": "https://cafebazaar.ir/app/io.exnovin.app",
         "changes": {
