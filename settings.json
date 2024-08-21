@@ -16,7 +16,7 @@
     "CONVERT_BALANCES_ENABLED": true,
     "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
     "TRACKING_ENDPOINT": "https://trace.exnovinmarket.com/v1/event",
-    "COOKIE_DOMAIN": ".exnovin.io",
+    "COOKIE_DOMAIN": ".beta.exnovin.io",
     "MARKETS": [
         {
             "name": "google play",
