@@ -53,11 +53,11 @@
     "CONTACTUS_PATH": "/contact-us",
     "ETF_PATH": "/etf",
     "SOCIALS_NETWORKS": {
-        "X" : "https://x.com/Oppodax_ir",
-        "TELEGRAM": "https://t.me/oppodax",
-        "INSTAGRAM": "https://www.instagram.com/oppodax.ir",
-        "FACEBOOK": "",
-        "LINKEDIN": ""
+        "X": "https://x.com/Exnovin_io",
+        "TELEGRAM": "https://t.me/exnovin_io",
+        "INSTAGRAM": "https://www.instagram.com/exnovin_io",
+        "FACEBOOK": "https://www.facebook.com/exnovin.io",
+        "LINKEDIN": "https://www.linkedin.com/company/exnovin"
     },
     "BANNERS": [
         {
