@@ -335,14 +335,8 @@
     "HOME_BANNERS": [
         {
             "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
-            "deepLink": {
-               "tabIndex": 2,
-               "screenName": "",
-               "props": {
-                    "pair": "DOGS_TMN"
-               }
-            },
-            "externalLink": ""
+            "deepLink": {},
+            "externalLink": "https://bet.exnovin.io/trade?pair=DOGS_TMN"
         },
         {
             "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
