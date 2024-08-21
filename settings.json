@@ -177,40 +177,7 @@
             "externalLink": ""
         }
     ],
-    "CAMPAIGN_MENU": [
-        {
-            "id": "GIFTS",
-            "labels": {
-                "fa": "هدیه",
-                "en": "Gift"
-            },
-            "icon": "gift",
-            "iconLink": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "GIFT_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "CAMPAIGN",
-            "labels": {
-                "fa": "سورپرایز سود و جایزه",
-                "en": "4th-anniversary"
-            },
-            "icon": "discountBag",
-            "iconLink": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "https://exnovin.io/campaign/4th-anniversary",
-            "badge": ""
-        }
-    ],
+    "CAMPAIGN_MENU": [],
     "HOME_SHORTCUT_MENU": [
         {
             "id": "DEPOSIT",
