@@ -16,7 +16,7 @@
     "CONVERT_BALANCES_ENABLED": true,
     "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
     "TRACKING_ENDPOINT": "https://trace.exnovinmarket.com/v1/event",
-    "COOKIE_DOMAIN": ".irandax.com",
+    "COOKIE_DOMAIN": ".exnovin.io",
     "MARKETS": [
         {
             "name": "google play",
@@ -274,7 +274,7 @@
                "props": {}
             },
             "externalLink": "",
-            "badge": "جدید"
+            "badge": ""
         },
         {
             "id": "BANK_ACCOUNTS",
@@ -319,7 +319,7 @@
                "props": {}
             },
             "externalLink": "",
-            "badge": "50%"
+            "badge": ""
         }
     ],
     "TOP_MARKETS": [
@@ -383,7 +383,7 @@
         }
     },
     "SERVICE_UPGRADE": {
-        "active": true,
+        "active": false,
         "estimatedUpTime": "2024-05-08T12:35:34Z"
     },
     "VIP_LEVEL_REQUIREMENTS": {
