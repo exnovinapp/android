@@ -34,7 +34,8 @@
             "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
         }
     ],
-    "GOOGLE_OAUTH_CLIENT_ID": "984504993978-3s0g1ogbsrrjbst87nuot3rkhsbdi8hs.apps.googleusercontent.com",
+    "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
+    "GOOGLE_OAUTH_CLIENT_V3_ID": "984504993978-3s0g1ogbsrrjbst87nuot3rkhsbdi8hs.apps.googleusercontent.com",
     "API_URL": "https://api.exnovinmarket.com",
     "WS_URL": "https://ws.exnovinmarket.com",
     "ALT_API_URL": "https://api.exnovin.io",
