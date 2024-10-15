@@ -342,7 +342,7 @@
         {
             "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
             "deepLink": {
-                "screenName": "MARKETS",
+                "screenName": "MARKETS_SCREEN",
                 "props": {}
             },
             "externalLink": ""
