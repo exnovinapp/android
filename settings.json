@@ -335,7 +335,7 @@
     ],
     "DESKTOP_HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
             "deepLink": {
                "tabIndex": 2,
                "screenName": "",
@@ -346,7 +346,7 @@
             "externalLink": ""
         },
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
             "deepLink": {},
             "externalLink": "https://oppogame.ir"
         }
