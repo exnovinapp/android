@@ -336,19 +336,16 @@
     "DESKTOP_HOME_BANNERS": [
         {
             "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
-            "deepLink": {
-               "tabIndex": 2,
-               "screenName": "",
-               "props": {
-                    "pair": "DOGS_TMN"
-               }
-            },
-            "externalLink": ""
+            "deepLink": {},
+            "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
         },
         {
             "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
-            "deepLink": {},
-            "externalLink": "https://oppogame.ir"
+            "deepLink": {
+                "screenName": "MARKETS",
+                "props": {}
+            },
+            "externalLink": ""
         }
     ],
     "HOME_BANNERS": [
