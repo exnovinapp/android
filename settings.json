@@ -4,7 +4,7 @@
         "ORDERS": 15000,
         "TRADES": 60000,
         "WALLETS": 30000,
-        "TOKENS": 15000,
+        "TOKENS": 30000,
         "TRANSACTIONS": 30000,
         "PROFILE": 60000,
         "NOTIFICATIONS": 60000,
