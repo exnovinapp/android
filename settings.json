@@ -335,12 +335,12 @@
     ],
     "DESKTOP_HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.webp",
             "deepLink": {},
             "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
         },
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.webp",
             "deepLink": {
                 "screenName": "MARKETS_SCREEN",
                 "props": {}
@@ -350,7 +350,7 @@
     ],
     "HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.webp",
             "deepLink": {
                "tabIndex": 2,
                "screenName": "",
@@ -359,11 +359,6 @@
                }
             },
             "externalLink": ""
-        },
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
-            "deepLink": {},
-            "externalLink": "https://oppogame.ir"
         }
     ],
     "SUGGESTION_FAVS": [
