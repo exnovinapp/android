@@ -335,7 +335,7 @@
     ],
     "DESKTOP_HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.webp",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.webp",
             "deepLink": {},
             "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
         },
