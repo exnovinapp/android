@@ -8,7 +8,10 @@
         "TRANSACTIONS": 30000,
         "PROFILE": 60000,
         "NOTIFICATIONS": 60000,
-        "BANK_ACCOUNT": 120000
+        "BANK_ACCOUNT": 120000,
+        "PAIRS": 15000,
+        "LAST_TRADES": 15000,
+        "ORDERBOOK": 5000
     },
     "REQUESTS_TIMEOUT": 20000,
     "GLOBAL_CHART_ENABLED": true,
