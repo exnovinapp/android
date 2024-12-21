@@ -11,7 +11,7 @@
         "BANK_ACCOUNT": 120000,
         "PAIRS": 15000,
         "LAST_TRADES": 15000,
-        "ORDERBOOK": 5000
+        "ORDERBOOK": 3000
     },
     "REQUESTS_TIMEOUT": 20000,
     "GLOBAL_CHART_ENABLED": true,
@@ -43,6 +43,8 @@
     "WS_URL": "https://ws.exnovinmarket.com",
     "ALT_API_URL": "https://api.exnovin.io",
     "ALT_WS_URL": "https://ws.exnovin.io",
+    "WS2_URL": "https://ws2.exnovinmarket.com",
+    "ALT_WS2_URL": "https://ws2.exnovin.io",
     "BASE_URL": "https://exnovin.io",
     "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
     "RESET_PASSWORD_PATH": "/app/reset-password",
@@ -338,12 +340,12 @@
     ],
     "DESKTOP_HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.webp",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
             "deepLink": {},
             "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
         },
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.webp",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
             "deepLink": {
                 "screenName": "MARKETS_SCREEN",
                 "props": {}
@@ -353,7 +355,7 @@
     ],
     "HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.webp",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
             "deepLink": {
                "tabIndex": 2,
                "screenName": "",
@@ -362,6 +364,11 @@
                }
             },
             "externalLink": ""
+        },
+        {
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
+            "deepLink": {},
+            "externalLink": "https://oppogame.ir"
         }
     ],
     "SUGGESTION_FAVS": [
@@ -415,7 +422,7 @@
     },
     "WITHDRAW_NOTICES": {
         "TMN": [
-            "تسویه ریالی در روزهای کاری و در زمان سیکل پایا  (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
+            "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
         ]
     }
 }
