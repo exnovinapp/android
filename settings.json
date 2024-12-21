@@ -44,7 +44,6 @@
     "ALT_API_URL": "https://api.exnovin.io",
     "ALT_WS_URL": "https://ws.exnovin.io",
     "WS2_URL": "https://ws2.exnovinmarket.com",
-    "ALT_WS2_URL": "https://ws2.exnovin.io",
     "BASE_URL": "https://exnovin.io",
     "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
     "RESET_PASSWORD_PATH": "/app/reset-password",
