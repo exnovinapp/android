@@ -44,6 +44,7 @@
     "ALT_API_URL": "https://api.exnovin.io",
     "ALT_WS_URL": "https://ws.exnovin.io",
     "CHART_WS_URL": "https://ws2.exnovinmarket.com",
+    "CHART_ASSETS_URL": "https://exnovin.io/app/libs/charting_library/",
     "BASE_URL": "https://exnovin.io",
     "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
     "RESET_PASSWORD_PATH": "/app/reset-password",
