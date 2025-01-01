@@ -408,6 +408,24 @@
         "min30dFiatDeposit": 1000000000,
         "min30dVol": 3000000000
     },
+    "TMN_DEPOSIT_METHODS": [
+        {
+            "id": "SHETAB",
+            "name": {
+                "fa": "شتابی",
+                "en": "Shetab"
+            },
+            "isActive": false
+        },
+        {
+            "id": "BANK",
+            "name": {
+                "fa": "شناسه دار",
+                "en": "Id Base"
+            },
+            "isActive": true
+        }
+    ],
     "DEPOSIT_NOTICES": {
         "TMN": {
             "SHETAB": [
