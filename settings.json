@@ -400,7 +400,7 @@
         }
     },
     "SERVICE_UPGRADE": {
-        "active": true,
+        "active": false,
         "estimatedUpTime": "2024-05-08T12:35:34Z"
     },
     "VIP_LEVEL_REQUIREMENTS": {
