@@ -1,5 +1,4 @@
 {
-    "IS_SERVICE_AVAILABLE": true,
     "FETCH_INTERVALS": {
         "ORDERS": 15000,
         "TRADES": 60000,
