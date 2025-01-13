@@ -424,14 +424,6 @@
                 "en": "Id Base"
             },
             "isActive": true
-        },
-        {
-            "id": "SLIP",
-            "name": {
-                "fa": "فیش بانکی",
-                "en": "Slip"
-            },
-            "isActive": true
         }
     ],
     "DEPOSIT_NOTICES": {
@@ -451,5 +443,35 @@
         "TMN": [
             "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
         ]
-    }
+    },
+    "SPECIAL_MODALS": [
+        {
+            "id": "MODAL1",
+            "images": {
+                "mobile": "https://public.mocortech.com/banner/F20241227112829033tf9nbIS8kfgtQ0.png",
+                "desktop": "https://public.mocortech.com/banner/F20241227112829033tf9nbIS8kfgtQ0.png"
+            },
+            "deepLink": {
+               "tabIndex": 2,
+               "screenName": "",
+               "props": {
+                    "pair": "HMSTR_TMN"
+               }
+            },
+            "externalLink": ""
+        },
+        {
+            "id": "MODAL2",
+            "images": {
+                "mobile": "https://public.mocortech.com/banner/F2025010917113660343FwjGaYJjym9N.png",
+                "desktop": "https://public.mocortech.com/banner/F2025010917113660343FwjGaYJjym9N.png"
+            },
+            "deepLink": {
+               "tabIndex": 0,
+               "screenName": "",
+               "props": {}
+            },
+            "externalLink": "https://exnovin.io"
+        }
+    ]
 }
