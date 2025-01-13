@@ -450,7 +450,7 @@
             "images": {
                 "mobile": {
                     "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
-                    "aspectRatio": 0.5
+                    "aspectRatio": 1
                 },
                 "desktop": {
                     "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
@@ -471,7 +471,7 @@
             "images": {
                 "mobile": {
                     "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
-                    "aspectRatio": 0.5
+                    "aspectRatio": 1
                 },
                 "desktop": {
                     "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
