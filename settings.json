@@ -469,8 +469,14 @@
         {
             "id": 2,
             "images": {
-                "mobile": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
-                "desktop": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png"
+                "mobile": {
+                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
+                    "aspectRatio": 0.5
+                },
+                "desktop": {
+                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
+                    "aspectRatio": 1.5
+                }
             },
             "deepLink": {
                "tabIndex": 0,
