@@ -448,8 +448,8 @@
         {
             "id": "MODAL1",
             "images": {
-                "mobile": "https://public.mocortech.com/banner/F20241227112829033tf9nbIS8kfgtQ0.png",
-                "desktop": "https://public.mocortech.com/banner/F20241227112829033tf9nbIS8kfgtQ0.png"
+                "mobile": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
+                "desktop": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png"
             },
             "deepLink": {
                "tabIndex": 2,
@@ -463,8 +463,8 @@
         {
             "id": "MODAL2",
             "images": {
-                "mobile": "https://public.mocortech.com/banner/F2025010917113660343FwjGaYJjym9N.png",
-                "desktop": "https://public.mocortech.com/banner/F2025010917113660343FwjGaYJjym9N.png"
+                "mobile": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
+                "desktop": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png"
             },
             "deepLink": {
                "tabIndex": 0,
