@@ -444,46 +444,5 @@
             "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
         ]
     },
-    "SPECIAL_MODALS": [
-        {
-            "id": 1,
-            "images": {
-                "mobile": {
-                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
-                    "aspectRatio": 1
-                },
-                "desktop": {
-                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
-                    "aspectRatio": 1.5
-                }
-            },
-            "deepLink": {
-               "tabIndex": 2,
-               "screenName": "",
-               "props": {
-                    "pair": "HMSTR_TMN"
-               }
-            },
-            "externalLink": ""
-        },
-        {
-            "id": 2,
-            "images": {
-                "mobile": {
-                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
-                    "aspectRatio": 1
-                },
-                "desktop": {
-                    "source": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-2.png",
-                    "aspectRatio": 1.5
-                }
-            },
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "https://exnovin.io"
-        }
-    ]
+    "SPECIAL_MODALS": []
 }
