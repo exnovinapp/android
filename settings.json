@@ -416,7 +416,7 @@
                 "fa": "شتابی",
                 "en": "Shetab"
             },
-            "isActive": true
+            "isActive": false
         },
         {
             "id": "BANK",
