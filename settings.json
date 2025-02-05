@@ -419,20 +419,20 @@
             "isActive": false
         },
         {
+            "id": "CARD",
+            "name": {
+                "fa": "کارت به کارت",
+                "en": "Card to Card"
+            },
+            "isActive": true
+        },
+        {
             "id": "BANK",
             "name": {
                 "fa": "شناسه دار",
                 "en": "Id Base"
             },
             "isActive": true
-        },
-        {
-            "id": "CARD",
-            "name": {
-                "fa": "کارت به کارت",
-                "en": "Card to Card"
-            },
-            "isActive": false
         }
     ],
     "DEPOSIT_NOTICES": {
