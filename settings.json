@@ -425,6 +425,14 @@
                 "en": "Id Base"
             },
             "isActive": true
+        },
+        {
+            "id": "CARD",
+            "name": {
+                "fa": "کارت به کارت",
+                "en": "Card to Card"
+            },
+            "isActive": false
         }
     ],
     "DEPOSIT_NOTICES": {
