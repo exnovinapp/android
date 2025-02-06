@@ -361,7 +361,7 @@
                 "tabIndex": 0,
                 "screenName": "DEPOSIT_SCREEN",
                 "props": {
-                "symbol": "TMN"
+                    "symbol": "TMN"
                 }
             },
             "externalLink": ""
