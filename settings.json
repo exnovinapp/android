@@ -356,13 +356,13 @@
     ],
     "HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/pwa-banner-1.png",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-05.png",
             "deepLink": {
-               "tabIndex": 2,
-               "screenName": "",
-               "props": {
-                    "pair": "DOGS_TMN"
-               }
+                "tabIndex": 0,
+                "screenName": "DEPOSIT_SCREEN",
+                "props": {
+                "symbol": "TMN"
+                }
             },
             "externalLink": ""
         },
