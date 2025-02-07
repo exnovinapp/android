@@ -356,7 +356,7 @@
     ],
     "HOME_BANNERS": [
         {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-05.png",
+            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-06.png",
             "deepLink": {
                 "tabIndex": 0,
                 "screenName": "DEPOSIT_SCREEN",
