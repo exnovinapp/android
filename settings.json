@@ -1,459 +1,489 @@
 {
-    "IS_SERVICE_AVAILABLE": true,
-    "FETCH_INTERVALS": {
-        "ORDERS": 15000,
-        "TRADES": 60000,
-        "WALLETS": 30000,
-        "TOKENS": 30000,
-        "TRANSACTIONS": 30000,
-        "PROFILE": 60000,
-        "NOTIFICATIONS": 60000,
-        "BANK_ACCOUNT": 120000,
-        "PAIRS": 15000,
-        "LAST_TRADES": 15000,
-        "ORDERBOOK": 3000
+  "IS_SERVICE_AVAILABLE": true,
+  "FETCH_INTERVALS": {
+    "ORDERS": 15000,
+    "TRADES": 60000,
+    "WALLETS": 30000,
+    "TOKENS": 30000,
+    "TRANSACTIONS": 30000,
+    "PROFILE": 60000,
+    "NOTIFICATIONS": 60000,
+    "BANK_ACCOUNT": 120000,
+    "PAIRS": 15000,
+    "LAST_TRADES": 15000,
+    "ORDERBOOK": 3000
+  },
+  "REQUESTS_TIMEOUT": 20000,
+  "GLOBAL_CHART_ENABLED": true,
+  "SUPPORT_CHAT_ENABLED": true,
+  "CONVERT_BALANCES_ENABLED": true,
+  "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
+  "ONLINE_SUPPORT_URL": "https://exnovin.io/support-menu",
+  "TRACKING_ENDPOINT": "https://trace.exnovinmarket.com/v1/event",
+  "COOKIE_DOMAIN": ".exnovin.io",
+  "MARKETS": [
+    {
+      "name": "google play",
+      "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app",
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/icons/GOOGLE-PLAY.png"
     },
-    "REQUESTS_TIMEOUT": 20000,
-    "GLOBAL_CHART_ENABLED": true,
-    "SUPPORT_CHAT_ENABLED": true,
-    "CONVERT_BALANCES_ENABLED": true,
-    "SUPPORT_CHAT_URL": "https://www.goftino.com/c/jITvVH",
-    "ONLINE_SUPPORT_URL": "https://exnovin.io/support-menu",
-    "TRACKING_ENDPOINT": "https://trace.exnovinmarket.com/v1/event",
-    "COOKIE_DOMAIN": ".exnovin.io",
-    "MARKETS": [
-        {
-            "name": "google play",
-            "appUrl": "https://play.google.com/store/apps/details?id=io.exnovin.app",
-            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
-        },
-        {
-            "name": "bazaar",
-            "appUrl": "https://cafebazaar.ir/app/io.exnovin.app",
-            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/BAZAAR.png"
-        },
-        {
-            "name": "direct",
-            "appUrl": "https://exnovin.io/exnovin.apk",
-            "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
-        }
-    ],
-    "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
-    "GOOGLE_OAUTH_CLIENT_V3_ID": "984504993978-3s0g1ogbsrrjbst87nuot3rkhsbdi8hs.apps.googleusercontent.com",
-    "API_URL": "https://api.exnovinmarket.com",
-    "WS_URL": "https://ws.exnovinmarket.com",
-    "ALT_API_URL": "https://api.exnovin.io",
-    "ALT_WS_URL": "https://ws.exnovin.io",
-    "CHART_WS_URL": "https://ws2.exnovinmarket.com",
-    "CHART_ASSETS_URL": "https://exnovin.io/app/libs/charting_library/",
-    "BASE_URL": "https://exnovin.io",
-    "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
-    "RESET_PASSWORD_PATH": "/app/reset-password",
-    "REGISTER_PATH": "/app/register",
-    "TOKEN_PATH": "/markets",
-    "TERMS_PATH": "/terms",
-    "FEES_PATH": "/fees",
-    "LEVELS_PATH": "/user-levels",
-    "REFERRAL_PATH": "/referral",
-    "FAQ_PATH": "/faq",
-    "ANNOUNCEMENT_PATH": "/announcement",
-    "CONTACTUS_PATH": "/contact-us",
-    "ETF_PATH": "/etf",
-    "SOCIALS_NETWORKS": {
-        "X": "https://x.com/Exnovin_io",
-        "TELEGRAM": "https://t.me/exnovin_announce",
-        "INSTAGRAM": "https://www.instagram.com/exnovin_io",
-        "FACEBOOK": "https://www.facebook.com/exnovin.io",
-        "LINKEDIN": "https://www.linkedin.com/company/exnovin"
+    {
+      "name": "bazaar",
+      "appUrl": "https://cafebazaar.ir/app/io.exnovin.app",
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/icons/BAZAAR.png"
     },
-    "BANNERS": [
-        {
-            "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-04.png",
-            "deepLink": {},
-            "externalLink": "https://exnovin.io"
+    {
+      "name": "direct",
+      "appUrl": "https://exnovin.io/exnovin.apk",
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/icons/DIRECT.png"
+    }
+  ],
+  "GOOGLE_OAUTH_CLIENT_ID": "162648969607-rcesn615kv090pk0h1f3fg9ojs0i9uip",
+  "GOOGLE_OAUTH_CLIENT_V3_ID": "984504993978-3s0g1ogbsrrjbst87nuot3rkhsbdi8hs.apps.googleusercontent.com",
+  "API_URL": "https://api.exnovinmarket.com",
+  "WS_URL": "https://ws.exnovinmarket.com",
+  "ALT_API_URL": "https://api.exnovin.io",
+  "ALT_WS_URL": "https://ws.exnovin.io",
+  "CHART_WS_URL": "https://ws2.exnovinmarket.com",
+  "CHART_ASSETS_URL": "https://exnovin.io/app/libs/charting_library/",
+  "BASE_URL": "https://exnovin.io",
+  "VERIFY_REGISTER_EMAIL_PATH": "/app/verified-email",
+  "RESET_PASSWORD_PATH": "/app/reset-password",
+  "REGISTER_PATH": "/app/register",
+  "TOKEN_PATH": "/markets",
+  "TERMS_PATH": "/terms",
+  "FEES_PATH": "/fees",
+  "LEVELS_PATH": "/user-levels",
+  "REFERRAL_PATH": "/referral",
+  "FAQ_PATH": "/faq",
+  "ANNOUNCEMENT_PATH": "/announcement",
+  "CONTACTUS_PATH": "/contact-us",
+  "ETF_PATH": "/etf",
+  "SOCIALS_NETWORKS": {
+    "X": "https://x.com/Exnovin_io",
+    "TELEGRAM": "https://t.me/exnovin_announce",
+    "INSTAGRAM": "https://www.instagram.com/exnovin_io",
+    "FACEBOOK": "https://www.facebook.com/exnovin.io",
+    "LINKEDIN": "https://www.linkedin.com/company/exnovin"
+  },
+  "BANNERS": [
+    {
+      "imageUrl": "https://api.exnovin.io/static-contents/images/banners/banner-04.png",
+      "deepLink": {
+
+      },
+      "externalLink": "https://exnovin.io"
+    }
+  ],
+  "USER_JOURNEY": [
+    {
+      "name": "SIGN_UP",
+      "titles": {
+        "fa": "ثبت نام",
+        "en": "Register"
+      },
+      "descriptions": {
+        "fa": "برای مشاهده همه خدمات ابتدا ثبت نام کنید.",
+        "en": "To access all features, signup first."
+      },
+      "buttonLabels": {
+        "fa": "شروع",
+        "en": "Start"
+      },
+      "stepLabels": {
+        "fa": "ثبت نام",
+        "en": "Register"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "LOGIN_SCREEN",
+        "props": {
+
         }
-    ],
-    "USER_JOURNEY": [
-        {
-            "name": "SIGN_UP",
-            "titles": {
-                "fa": "ثبت نام",
-                "en": "Register"
-            },
-            "descriptions": {
-                "fa": "برای مشاهده همه خدمات ابتدا ثبت نام کنید.",
-                "en": "To access all features, signup first."
-            },
-            "buttonLabels": {
-                "fa": "شروع",
-                "en": "Start"
-            },
-            "stepLabels": {
-                "fa": "ثبت نام",
-                "en": "Register"
-            },
-            "logoUrl": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "LOGIN_SCREEN",
-               "props": {}
-            },
-            "externalLink": ""
-        },
-        {
-            "name": "KYC",
-            "titles": {
-                "fa": "احراز هویت",
-                "en": "KYC"
-            },
-            "descriptions": {
-                "fa": "احراز هویت کنید و به صورت نامحدود خرید و فروش انجام دهید.",
-                "en": "Compelete Kyc to have unlimited trade."
-            },
-            "buttonLabels": {
-                "fa": "شروع کن",
-                "en": "Start"
-            },
-            "stepLabels": {
-                "fa": "احراز هویت",
-                "en": "KYC"
-            },
-            "logoUrl": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
-               "props": {}
-            },
-            "externalLink": ""
-        },
-        {
-            "name": "DEPOSIT",
-            "limits": {
-                "minFundsValue": 1000000
-            },
-            "titles": {
-                "fa": "واریز",
-                "en": "Deposit"
-            },
-            "descriptions": {
-                "fa": "با واریز وجه شروع به سرمایه گذاری و کسب سود کنید.",
-                "en": "Deposit Funds to Invest and gain profit."
-            },
-            "buttonLabels": {
-                "fa": "واریز تومان",
-                "en": "Deposit Toman"
-            },
-            "stepLabels": {
-                "fa": "واریز",
-                "en": "Deposit"
-            },
-            "logoUrl": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "DEPOSIT_SCREEN",
-               "props": {
-                   "symbol": "TMN"
-               }
-            },
-            "externalLink": ""
-        },
-        {
-            "name": "TRADE",
-            "titles": {
-                "fa": "معامله",
-                "en": "Trade"
-            },
-            "descriptions": {
-                "fa": "فرصت های سرمایه گذاری در انتظار شما هستند. شروع کنید.",
-                "en": "Trade opportunities are waiting for you. go ahead!!"
-            },
-            "buttonLabels": {
-                "fa": "بررسی بازارها",
-                "en": "Market Research"
-            },
-            "stepLabels": {
-                "fa": "معامله",
-                "en": "Trade"
-            },
-            "logoUrl": "",
-            "deepLink": {
-               "tabIndex": 1,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": ""
-        }
-    ],
-    "CAMPAIGN_MENU": [
-        {
-            "id": "GIFTS",
-            "labels": {
-                "fa": "هدیه",
-                "en": "Gift"
-            },
-            "icon": "gift",
-            "iconLink": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "GIFT_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "CAMPAIGN",
-            "labels": {
-                "fa": "سورپرایز سود و جایزه",
-                "en": "4th-anniversary"
-            },
-            "icon": "discountBag",
-            "iconLink": "",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "https://exnovin.io/campaign/4th-anniversary",
-            "badge": ""
-        }
-    ],
-    "HOME_SHORTCUT_MENU": [
-        {
-            "id": "DEPOSIT",
-            "labels": {
-                "fa": "واریز",
-                "en": "Deposit"
-            },
-            "icon": "walletIncome",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "DEPOSIT_SCREEN",
-               "props": {
-                   "symbol": "TMN"
-               }
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "PNL",
-            "labels": {
-                "fa": "سود و زیان",
-                "en": "PnL"
-            },
-            "icon": "trendUpGraphBox",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "PNL_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "FAST_ORDER",
-            "labels": {
-                "fa": "سفارش سریع",
-                "en": "Fast Order"
-            },
-            "icon": "shoppingBagPlus",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "FAST_ORDER_SCREEN",
-               "props": {
-                "side": "BUY"
-               }
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "FAST_CONVERT",
-            "labels": {
-                "fa": "تبدیل دارایی",
-                "en": "Convert Assets"
-            },
-            "icon": "deliveryBoxChange",
-            "deepLink": {
-               "tabIndex": null,
-               "screenName": "",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "BANK_ACCOUNTS",
-            "labels": {
-                "fa": "حساب بانکی",
-                "en": "Bank Account"
-            },
-            "icon": "bankCardDouble",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "BANK_ACCOUNTS_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "GIFTS",
-            "labels": {
-                "fa": "هدیه",
-                "en": "Gift"
-            },
-            "icon": "gift",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "GIFTS_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        },
-        {
-            "id": "REFERRAL",
-            "labels": {
-                "fa": "دعوت دوستان",
-                "en": "Invite Friends"
-            },
-            "icon": "user",
-            "deepLink": {
-               "tabIndex": 0,
-               "screenName": "REFERRAL_SCREEN",
-               "props": {}
-            },
-            "externalLink": "",
-            "badge": ""
-        }
-    ],
-    "TOP_MARKETS": [
-        "BTC/USDT",
-        "ETH/USDT",
-        "XRP/USDT",
-        "BNB/USDT",
-        "LTC/USDT",
-        "BCH/USDT",
-        "ADA/USDT",
-        "LINK/USDT"
-    ],
-    "DESKTOP_HOME_BANNERS": [
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
-            "deepLink": {},
-            "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
-        },
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-2.jpg",
-            "deepLink": {
-                "screenName": "MARKETS_SCREEN",
-                "props": {}
-            },
-            "externalLink": ""
-        }
-    ],
-    "HOME_BANNERS": [
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/banner-06.png",
-            "deepLink": {
-                "tabIndex": 0,
-                "screenName": "DEPOSIT_SCREEN",
-                "props": {
-                    "symbol": "TMN"
-                }
-            },
-            "externalLink": ""
-        },
-        {
-            "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/qestionnaire.png",
-            "deepLink": {},
-            "externalLink": "https://survey.porsline.ir/s/yGv8eDfh"
-        }
-    ],
-    "SUGGESTION_FAVS": [
-        "BTC/TMN",
-        "USDT/TMN",
-        "ETH/TMN",
-        "SOL/TMN",
-        "XRP/TMN",
-        "SHIB/TMN"
-    ],
-    "NEW_VERSION_MODAL": {
-        "active": false,
-        "version": "2.10.8",
-        "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/mobile-update-banner-06.png",
-        "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
+      },
+      "externalLink": ""
     },
-    "APP_UPDATE_MODAL": {
-        "active": false,
-        "version": "2.10.8",
-        "externalLink": "https://cafebazaar.ir/app/io.exnovin.app",
-        "changes": {
-            "en": ["change1", "change2"],
-            "fa": [
-                "افزودن ورود دو مرحله‌ای",
-                 "بازطراحی احراز هویت کاربر",
-                 "بازطراحی صفحه بازارها و افزودن قابلیت‌های متعدد",
-                 "رفع برخی خطاهای گزارش شده"
-            ]
+    {
+      "name": "KYC",
+      "titles": {
+        "fa": "احراز هویت",
+        "en": "KYC"
+      },
+      "descriptions": {
+        "fa": "احراز هویت کنید و به صورت نامحدود خرید و فروش انجام دهید.",
+        "en": "Compelete Kyc to have unlimited trade."
+      },
+      "buttonLabels": {
+        "fa": "شروع کن",
+        "en": "Start"
+      },
+      "stepLabels": {
+        "fa": "احراز هویت",
+        "en": "KYC"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
+        "props": {
+
         }
+      },
+      "externalLink": ""
     },
-    "SERVICE_UPGRADE": {
-        "active": true,
-        "estimatedUpTime": "2024-02-08T12:35:34Z"
-    },
-    "VIP_LEVEL_REQUIREMENTS": {
-        "activityDurationBasedOnMonth": 1,
-        "min30dFiatDeposit": 1000000000,
-        "min30dVol": 3000000000
-    },
-    "TMN_DEPOSIT_METHODS": [
-        {
-            "id": "SHETAB",
-            "name": {
-                "fa": "شتابی",
-                "en": "Shetab"
-            },
-            "isActive": false
-        },
-        {
-            "id": "CARD",
-            "name": {
-                "fa": "کارت به کارت",
-                "en": "Card to Card"
-            },
-            "isActive": true
-        },
-        {
-            "id": "BANK",
-            "name": {
-                "fa": "شناسه دار",
-                "en": "Id Base"
-            },
-            "isActive": true
+    {
+      "name": "DEPOSIT",
+      "limits": {
+        "minFundsValue": 1000000
+      },
+      "titles": {
+        "fa": "واریز",
+        "en": "Deposit"
+      },
+      "descriptions": {
+        "fa": "با واریز وجه شروع به سرمایه گذاری و کسب سود کنید.",
+        "en": "Deposit Funds to Invest and gain profit."
+      },
+      "buttonLabels": {
+        "fa": "واریز تومان",
+        "en": "Deposit Toman"
+      },
+      "stepLabels": {
+        "fa": "واریز",
+        "en": "Deposit"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "DEPOSIT_SCREEN",
+        "props": {
+          "symbol": "TMN"
         }
-    ],
-    "DEPOSIT_NOTICES": {
-        "TMN": {
-            "SHETAB": [
-                "در صورت نیاز به واریز مبالغ بیشتر از ۲۵ میلیون تومان، از طریق واریز شناسه دار اقدام کنید.",
-                "توجه: برای این منظور می توانید در دفعات مختلف واریزهای ۲۵ میلیون تومانی انجام دهید."
-            ],
-            "BANK": [
-                "برای واریز شناسه دار، شما می توانید از طریق موبایل بانک یا اینترنت بانک اقدام به انجام حواله های ساتنا یا پایا به شماره شبای مشخص شده کنید. سپس شناسه واریز ایجاد شده را در قسمت شناسه پرداخت وارد نمایید."
-            ],
-            "CARD": [
-                "با هر کارت روزانه تا سقف 10 میلیون تومان می توانید واریز کنید.",
-                "مبلغ واریزی طی حداکثر 15 دقیقه به حساب شما اضافه خواهد شد."
-            ]
+      },
+      "externalLink": ""
+    },
+    {
+      "name": "TRADE",
+      "titles": {
+        "fa": "معامله",
+        "en": "Trade"
+      },
+      "descriptions": {
+        "fa": "فرصت های سرمایه گذاری در انتظار شما هستند. شروع کنید.",
+        "en": "Trade opportunities are waiting for you. go ahead!!"
+      },
+      "buttonLabels": {
+        "fa": "بررسی بازارها",
+        "en": "Market Research"
+      },
+      "stepLabels": {
+        "fa": "معامله",
+        "en": "Trade"
+      },
+      "logoUrl": "",
+      "deepLink": {
+        "tabIndex": 1,
+        "screenName": "",
+        "props": {
+
         }
+      },
+      "externalLink": ""
+    }
+  ],
+  "CAMPAIGN_MENU": [
+    {
+      "id": "GIFTS",
+      "labels": {
+        "fa": "هدیه",
+        "en": "Gift"
+      },
+      "icon": "gift",
+      "iconLink": "",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "GIFT_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
     },
-    "WITHDRAW_NOTICES": {
-        "TMN": [
-            "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
-        ]
+    {
+      "id": "CAMPAIGN",
+      "labels": {
+        "fa": "سورپرایز سود و جایزه",
+        "en": "4th-anniversary"
+      },
+      "icon": "discountBag",
+      "iconLink": "",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "",
+        "props": {
+
+        }
+      },
+      "externalLink": "https://exnovin.io/campaign/4th-anniversary",
+      "badge": ""
+    }
+  ],
+  "HOME_SHORTCUT_MENU": [
+    {
+      "id": "DEPOSIT",
+      "labels": {
+        "fa": "واریز",
+        "en": "Deposit"
+      },
+      "icon": "walletIncome",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "DEPOSIT_SCREEN",
+        "props": {
+          "symbol": "TMN"
+        }
+      },
+      "externalLink": "",
+      "badge": ""
     },
-    "SPECIAL_MODALS": []
+    {
+      "id": "PNL",
+      "labels": {
+        "fa": "سود و زیان",
+        "en": "PnL"
+      },
+      "icon": "trendUpGraphBox",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "PNL_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    },
+    {
+      "id": "FAST_ORDER",
+      "labels": {
+        "fa": "سفارش سریع",
+        "en": "Fast Order"
+      },
+      "icon": "shoppingBagPlus",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "FAST_ORDER_SCREEN",
+        "props": {
+          "side": "BUY"
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    },
+    {
+      "id": "FAST_CONVERT",
+      "labels": {
+        "fa": "تبدیل دارایی",
+        "en": "Convert Assets"
+      },
+      "icon": "deliveryBoxChange",
+      "deepLink": {
+        "tabIndex": null,
+        "screenName": "",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    },
+    {
+      "id": "BANK_ACCOUNTS",
+      "labels": {
+        "fa": "حساب بانکی",
+        "en": "Bank Account"
+      },
+      "icon": "bankCardDouble",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "BANK_ACCOUNTS_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    },
+    {
+      "id": "GIFTS",
+      "labels": {
+        "fa": "هدیه",
+        "en": "Gift"
+      },
+      "icon": "gift",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "GIFTS_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    },
+    {
+      "id": "REFERRAL",
+      "labels": {
+        "fa": "دعوت دوستان",
+        "en": "Invite Friends"
+      },
+      "icon": "user",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "REFERRAL_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": "",
+      "badge": ""
+    }
+  ],
+  "TOP_MARKETS": [
+    "BTC/USDT",
+    "ETH/USDT",
+    "XRP/USDT",
+    "BNB/USDT",
+    "LTC/USDT",
+    "BCH/USDT",
+    "ADA/USDT",
+    "LINK/USDT"
+  ],
+  "DESKTOP_HOME_BANNERS": [
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
+      "deepLink": {
+
+      },
+      "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
+    },
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/sol_web.png",
+      "deepLink": {
+        "screenName": "FUNDS_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": ""
+    }
+  ],
+  "HOME_BANNERS": [
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/sol_mobile.png",
+      "deepLink": {
+        "screenName": "FUNDS_SCREEN",
+        "props": {
+
+        }
+      },
+      "externalLink": ""
+    },
+    {
+      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/exnovin_telegram_channer.jpeg",
+      "deepLink": {
+
+      },
+      "externalLink": "https://t.me/exnovin_announce"
+    }
+  ],
+  "SUGGESTION_FAVS": [
+    "BTC/TMN",
+    "USDT/TMN",
+    "ETH/TMN",
+    "SOL/TMN",
+    "XRP/TMN",
+    "SHIB/TMN"
+  ],
+  "NEW_VERSION_MODAL": {
+    "active": false,
+    "version": "2.10.8",
+    "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/mobile-update-banner-06.png",
+    "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
+  },
+  "APP_UPDATE_MODAL": {
+    "active": false,
+    "version": "2.10.8",
+    "externalLink": "https://cafebazaar.ir/app/io.exnovin.app",
+    "changes": {
+      "en": [
+        "change1",
+        "change2"
+      ],
+      "fa": [
+        "افزودن ورود دو مرحله‌ای",
+        "بازطراحی احراز هویت کاربر",
+        "بازطراحی صفحه بازارها و افزودن قابلیت‌های متعدد",
+        "رفع برخی خطاهای گزارش شده"
+      ]
+    }
+  },
+  "SERVICE_UPGRADE": {
+    "active": true,
+    "estimatedUpTime": "2024-02-08T12:35:34Z"
+  },
+  "VIP_LEVEL_REQUIREMENTS": {
+    "activityDurationBasedOnMonth": 1,
+    "min30dFiatDeposit": 1000000000,
+    "min30dVol": 3000000000
+  },
+  "TMN_DEPOSIT_METHODS": [
+    {
+      "id": "SHETAB",
+      "name": {
+        "fa": "شتابی",
+        "en": "Shetab"
+      },
+      "isActive": false
+    },
+    {
+      "id": "CARD",
+      "name": {
+        "fa": "کارت به کارت",
+        "en": "Card to Card"
+      },
+      "isActive": true
+    },
+    {
+      "id": "BANK",
+      "name": {
+        "fa": "شناسه دار",
+        "en": "Id Base"
+      },
+      "isActive": true
+    }
+  ],
+  "DEPOSIT_NOTICES": {
+    "TMN": {
+      "SHETAB": [
+        "در صورت نیاز به واریز مبالغ بیشتر از ۲۵ میلیون تومان، از طریق واریز شناسه دار اقدام کنید.",
+        "توجه: برای این منظور می توانید در دفعات مختلف واریزهای ۲۵ میلیون تومانی انجام دهید."
+      ],
+      "BANK": [
+        "برای واریز شناسه دار، شما می توانید از طریق موبایل بانک یا اینترنت بانک اقدام به انجام حواله های ساتنا یا پایا به شماره شبای مشخص شده کنید. سپس شناسه واریز ایجاد شده را در قسمت شناسه پرداخت وارد نمایید."
+      ],
+      "CARD": [
+        "با هر کارت روزانه تا سقف 10 میلیون تومان می توانید واریز کنید.",
+        "مبلغ واریزی طی حداکثر 15 دقیقه به حساب شما اضافه خواهد شد."
+      ]
+    }
+  },
+  "WITHDRAW_NOTICES": {
+    "TMN": [
+      "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
+    ]
+  },
+  "SPECIAL_MODALS": []
 }
