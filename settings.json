@@ -268,7 +268,7 @@
     {
       "id": "FAST_ORDER",
       "labels": {
-        "fa": "سفارش سریع",
+        "fa": "سفارش فوری",
         "en": "Fast Order"
       },
       "icon": "shoppingBagPlus",
@@ -487,3 +487,4 @@
   },
   "SPECIAL_MODALS": []
 }
+
