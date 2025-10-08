@@ -127,7 +127,7 @@
         "tabIndex": 0,
         "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
         "props": {
-
+          "type": "onboarding",
         }
       },
       "externalLink": ""
@@ -488,6 +488,7 @@
   },
   "SPECIAL_MODALS": []
 }
+
 
 
 
