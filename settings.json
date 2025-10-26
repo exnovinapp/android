@@ -496,5 +496,25 @@
       "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
     ]
   },
-  "SPECIAL_MODALS": []
+  "SPECIAL_MODALS": [
+    {
+        "id": 1761483810,
+        "images": {
+            "mobile": {
+                "source": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_8_2_141dc66ec1.png",
+                "aspectRatio": 1
+            },
+            "desktop": {
+                "source": "https://landing-cms.exnovin.io/uploads/Landing_Desktop_Market_7_15cf65e0a6.png",
+                "aspectRatio": 1.864
+            }
+        },
+        "deepLink": {
+            "tabIndex": 2,
+            "screenName": "",
+            "props": {}
+        },
+        "externalLink": ""
+    }
+  ]
 }
