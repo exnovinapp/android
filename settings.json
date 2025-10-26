@@ -127,7 +127,7 @@
         "tabIndex": 0,
         "screenName": "IDENTITY_AUTHENTICATION_SCREEN",
         "props": {
-          "type": "onboarding",
+
         }
       },
       "externalLink": ""
@@ -363,16 +363,21 @@
   ],
   "DESKTOP_HOME_BANNERS": [
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/webapp-banner-1.jpg",
+      "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_1_21cd2c302b.png",
       "deepLink": {
+        "tabIndex": 0,
+        "screenName": "FAST_ORDER_SCREEN",
+        "props": {
 
+        }
       },
-      "externalLink": "https://cafebazaar.ir/app/io.exnovin.app"
+      "externalLink": ""
     },
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/sol_web.png",
+      "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_3_88abb19b6d.png",
       "deepLink": {
-        "screenName": "FUNDS_SCREEN",
+        "tabIndex": 0,
+        "screenName": "REFERRAL_SCREEN",
         "props": {
 
         }
@@ -382,9 +387,10 @@
   ],
   "HOME_BANNERS": [
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/sol_mobile.png",
+      "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_1_5925c01a6b.png",
       "deepLink": {
-        "screenName": "FUNDS_SCREEN",
+        "tabIndex": 3,
+        "screenName": "",
         "props": {
 
         }
@@ -392,11 +398,15 @@
       "externalLink": ""
     },
     {
-      "imageUrl": "https://api.exnovinmarket.com/static-contents/images/banners/exnovin_telegram_channer.jpeg",
+      "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_3_199b17c456.png",
       "deepLink": {
+        "tabIndex": 0,
+        "screenName": "REFERRAL_SCREEN",
+        "props": {
 
+        }
       },
-      "externalLink": "https://t.me/exnovin_announce"
+      "externalLink": ""
     }
   ],
   "SUGGESTION_FAVS": [
@@ -466,20 +476,20 @@
     }
   ],
   "DEPOSIT_NOTICES": {
-      "TMN": {
-          "SHETAB": [
-              "در صورت نیاز به واریز مبالغ بیشتر از ۲۵ میلیون تومان، از طریق واریز شناسه دار اقدام کنید.",
-              "توجه: برای این منظور می توانید در دفعات مختلف واریزهای ۲۵ میلیون تومانی انجام دهید."
-          ],
-          "BANK": [
-              "برای واریز شناسه دار، شما می توانید از طریق موبایل بانک، اینترنت بانک یا مراجعه به شعب بانک اقدام به انجام حواله های ساتنا یا پایا به شماره شبای مشخص شده کنید. (حتما شناسه واریز ایجاد شده را در فرم حواله وارد نمایید)",
-              "سقف هر واریز شناسه دار 200 میلیون تومان است. برای واریز مبالغ بیشتر از 200 میلیون تومان، مبلغ موردنظر را در چند حواله مختلف پرداخت کنید."
-          ],
-          "CARD": [
-              "با هر کارت روزانه تا سقف 50 میلیون تومان می توانید واریز کنید.",
-              "مبلغ واریزی طی حداکثر 30 دقیقه به حساب شما اضافه خواهد شد."
-          ]
-      }
+    "TMN": {
+      "SHETAB": [
+        "در صورت نیاز به واریز مبالغ بیشتر از ۲۵ میلیون تومان، از طریق واریز شناسه دار اقدام کنید.",
+        "توجه: برای این منظور می توانید در دفعات مختلف واریزهای ۲۵ میلیون تومانی انجام دهید."
+      ],
+      "BANK": [
+        "برای واریز شناسه دار، شما می توانید از طریق موبایل بانک، اینترنت بانک یا مراجعه به شعب بانک اقدام به انجام حواله های ساتنا یا پایا به شماره شبای مشخص شده کنید. (حتما شناسه واریز ایجاد شده را در فرم حواله وارد نمایید)",
+        "سقف هر واریز شناسه دار 200 میلیون تومان است. برای واریز مبالغ بیشتر از 200 میلیون تومان، مبلغ موردنظر را در چند حواله مختلف پرداخت کنید."
+      ],
+      "CARD": [
+        "با هر کارت روزانه تا سقف 50 میلیون تومان می توانید واریز کنید.",
+        "مبلغ واریزی طی حداکثر 30 دقیقه به حساب شما اضافه خواهد شد."
+      ]
+    }
   },
   "WITHDRAW_NOTICES": {
     "TMN": [
@@ -488,8 +498,3 @@
   },
   "SPECIAL_MODALS": []
 }
-
-
-
-
-
