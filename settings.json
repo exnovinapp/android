@@ -366,12 +366,12 @@
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_1_21cd2c302b.png",
       "deepLink": {
         "tabIndex": 0,
-        "screenName": "FAST_ORDER_SCREEN",
+        "screenName": "",
         "props": {
 
         }
       },
-      "externalLink": ""
+      "externalLink": "https://exnovin.io/announcement/84"
     },
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_3_88abb19b6d.png",
@@ -395,7 +395,7 @@
 
         }
       },
-      "externalLink": ""
+      "externalLink": "https://exnovin.io/announcement/84"
     },
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_3_199b17c456.png",
@@ -495,13 +495,5 @@
       "تسویه ریالی در روزهای کاری و در زمان سیکل پایا (ساعات ۰۳:۴۵ ، ۱۰:۴۵ ، ۱۳:۴۵ و ۱۸:۴۵) انجام خواهد شد."
     ]
   },
-  "SPECIAL_MODALS": [
-
-  ]
+  "SPECIAL_MODALS": []
 }
-
-
-
-
-
-
