@@ -266,66 +266,49 @@
       "badge": ""
     },
     {
-      "id": "FAST_ORDER",
+      "id": "WITHDRAW",
       "labels": {
-        "fa": "سفارش فوری",
-        "en": "Fast Order"
+        "fa": "برداشت",
+        "en": "Withdraw"
       },
-      "icon": "shoppingBagPlus",
+      "icon": "walletOut",
       "deepLink": {
         "tabIndex": 0,
-        "screenName": "FAST_ORDER_SCREEN",
+        "screenName": "WITHDRAW_SCREEN",
         "props": {
-          "side": "BUY"
+          "symbol": "TMN"
         }
       },
       "externalLink": "",
       "badge": ""
     },
     {
-      "id": "FAST_CONVERT",
+      "id": "ORDERS_HISTORY",
       "labels": {
-        "fa": "تبدیل دارایی",
-        "en": "Convert Assets"
+        "fa": "تاریخچه سفارش",
+        "en": "Order History"
       },
-      "icon": "deliveryBoxChange",
+      "icon": "docs",
       "deepLink": {
-        "tabIndex": null,
-        "screenName": "",
+        "tabIndex": 0,
+        "screenName": "TRANSACTIONS_HISTORY_SCREEN",
         "props": {
-
+            "type": "ORDER"
         }
       },
       "externalLink": "",
       "badge": ""
     },
     {
-      "id": "BANK_ACCOUNTS",
+      "id": "ALERT",
       "labels": {
-        "fa": "حساب بانکی",
-        "en": "Bank Account"
+        "fa": "هشدار قیمت",
+        "en": "Price Alert"
       },
-      "icon": "bankCardDouble",
+      "icon": "ringing",
       "deepLink": {
         "tabIndex": 0,
-        "screenName": "BANK_ACCOUNTS_SCREEN",
-        "props": {
-
-        }
-      },
-      "externalLink": "",
-      "badge": ""
-    },
-    {
-      "id": "GIFTS",
-      "labels": {
-        "fa": "هدیه",
-        "en": "Gift"
-      },
-      "icon": "gift",
-      "deepLink": {
-        "tabIndex": 0,
-        "screenName": "GIFTS_SCREEN",
+        "screenName": "ALERTS_SCREEN",
         "props": {
 
         }
@@ -349,6 +332,23 @@
       },
       "externalLink": "",
       "badge": ""
+    },
+    {
+      "id": "CHAT",
+      "labels": {
+        "fa": "پشتیبانی / چت",
+        "en": "Support / Chat"
+      },
+      "icon": "messagesBubble",
+      "deepLink": {
+        "tabIndex": 0,
+        "screenName": "",
+        "props": {
+
+        }
+      },
+      "externalLink": "https://www.goftino.com/c/jITvVH",
+      "badge": "24 ساعته"
     }
   ],
   "TOP_MARKETS": [
