@@ -365,13 +365,13 @@
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_1_21cd2c302b.png",
       "deepLink": {
-        "tabIndex": 0,
-        "screenName": "",
+        "tabIndex": 2,
+        "screenName": "TRADE_SCREEN",
         "props": {
-
+            "pair": "SLVON_TMN"
         }
       },
-      "externalLink": "https://exnovin.io/announcement/84"
+      "externalLink": ""
     },
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Desktop_market_3_88abb19b6d.png",
@@ -389,13 +389,13 @@
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_1_5925c01a6b.png",
       "deepLink": {
-        "tabIndex": 3,
-        "screenName": "",
+        "tabIndex": 2,
+        "screenName": "TRADE_SCREEN",
         "props": {
-
+            "pair": "SLVON_TMN"
         }
       },
-      "externalLink": "https://exnovin.io/announcement/84"
+      "externalLink": ""
     },
     {
       "imageUrl": "https://landing-cms.exnovin.io/uploads/Universal_Mobile_market_3_199b17c456.png",
