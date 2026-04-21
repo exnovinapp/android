@@ -293,7 +293,7 @@
         "tabIndex": 0,
         "screenName": "TRANSACTIONS_HISTORY_SCREEN",
         "props": {
-            "type": "ORDER"
+          "type": "ORDER"
         }
       },
       "externalLink": "",
@@ -368,7 +368,7 @@
         "tabIndex": 2,
         "screenName": "TRADE_SCREEN",
         "props": {
-            "pair": "SLVON_TMN"
+          "pair": "SLVON_TMN"
         }
       },
       "externalLink": ""
@@ -392,7 +392,7 @@
         "tabIndex": 2,
         "screenName": "TRADE_SCREEN",
         "props": {
-            "pair": "SLVON_TMN"
+          "pair": "SLVON_TMN"
         }
       },
       "externalLink": ""
@@ -486,13 +486,14 @@
       ],
       "CARD": [
         "با هر کارت روزانه تا سقف 50 میلیون تومان می توانید واریز کنید.",
-        "مبلغ واریزی طی حداکثر 30 دقیقه به حساب شما اضافه خواهد شد."
+        "فرآیند واریز به صورت آنی انجام شده و دارایی حداکثر ظرف ۳۰ دقیقه به حساب کاربری می‌نشیند."
       ]
     }
   },
   "WITHDRAW_NOTICES": {
     "TMN": [
-      "برداشت ممکن است حداکثر تا ۵ روز کاری طول بکشد."
+      "روزهای غیرتعطیل: تسویه در نزدیک‌ترین سیکل پایا پس از ثبت درخواست انجام خواهد شد.",
+      "روزهای تعطیل: تسویه به صورت یک‌بار در روز انجام می‌پذیرد."
     ]
   },
   "SPECIAL_MODALS": []
